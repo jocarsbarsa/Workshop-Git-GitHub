@@ -12,3 +12,4 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
 | Felipe Herculani | [LinkedIn](https://www.linkedin.com/in/felipe-pontes-3145b025b) |
+| Guilherme Francisco Rossi Chagas | [github](https://github.com/GuilhermeFranci) |
