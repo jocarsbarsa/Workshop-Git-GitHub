@@ -11,5 +11,17 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |Nome Completo| Endereço URL | 
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
+
 | Hector Carlos Frigo | [LinkedIn](https://www.linkedin.com/in/hectorfrigoo) |
 | Ana Julia de Almeida Pio | [LinkedIn](https://www.linkedin.com/in/ana-julia-de-almeida-pio) |
+=======
+| Felipe Herculani | [LinkedIn](https://www.linkedin.com/in/felipe-pontes-3145b025b) |
+| Guilherme Francisco Rossi Chagas | [github](https://github.com/GuilhermeFranci) |
+| Jean Paulo Mei | [LinkedIn](https://br.linkedin.com/in/jean-paulo-mei-a42056137) |
+| Rafael Fernando Neves | [LinkedIn](https://www.linkedin.com/in/rafael-neves-774251150/) |
+| Rebecca Lopes Sant'Ana | [LinkedIn](https://www.linkedin.com/in/rebecca-santana-767440194/) |
+| João Pedro Tomé Morais | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-tom%C3%A9-morais-2ba369290) |
+| Isabella Vieira Barbosa | [GitHub](https://github.com/Bella5900g/) |
+| Vinicius Henrique Arrais Rosa | [GitHub](https://github.com/Vinicius-vhar) | 
+
+
