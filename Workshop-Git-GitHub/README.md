@@ -12,3 +12,4 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
 | Gabriel Lentini Linhares Marques | [LinkedIn](https://www.linkedin.com/in/Gabriel-Lentini) |
+| Guilherme Francisco Rossi Chagas | [github](https://github.com/GuilhermeFranci) |
