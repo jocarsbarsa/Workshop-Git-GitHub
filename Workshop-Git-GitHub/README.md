@@ -11,6 +11,7 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |Nome Completo| Endereço URL | 
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
+| João Pedro Tomé Morais | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-tom%C3%A9-morais-2ba369290) |
 | Guilherme Francisco Rossi Chagas | [github](https://github.com/GuilhermeFranci) |
 | Jean Paulo Mei | [LinkedIn](https://br.linkedin.com/in/jean-paulo-mei-a42056137) |
-| João Pedro Tomé Morais | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-tom%C3%A9-morais-2ba369290) |
+| Rafael Fernando Neves | [LinkedIn](https://www.linkedin.com/in/rafael-neves-774251150/) |
