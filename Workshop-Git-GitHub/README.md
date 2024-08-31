@@ -18,4 +18,5 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 | Rebecca Lopes Sant'Ana | [LinkedIn](https://www.linkedin.com/in/rebecca-santana-767440194/) |
 | João Pedro Tomé Morais | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-tom%C3%A9-morais-2ba369290) |
 | Isabella Vieira Barbosa | [GitHub](https://github.com/Bella5900g/) |
+| Vinicius Henrique Arrais Rosa | [GitHub](https://github.com/Vinicius-vhar) | 
 
