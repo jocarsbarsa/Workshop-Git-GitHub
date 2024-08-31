@@ -12,3 +12,4 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
 | Hector Carlos Frigo | [LinkedIn](https://www.linkedin.com/in/hectorfrigoo) |
+| Ana Julia de Almeida Pio | [LinkedIn](https://www.linkedin.com/in/ana-julia-de-almeida-pio) |
