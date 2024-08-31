@@ -11,4 +11,4 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |Nome Completo| Endereço URL | 
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
-| Hector Carlos Frigo | [LinkedIn](https://www.linkedin.com/in/hectorfrigoo) |
+| Guilherme Francisco Rossi Chagas | [github](https://github.com/GuilhermeFranci) |
