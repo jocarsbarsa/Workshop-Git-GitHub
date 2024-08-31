@@ -12,3 +12,4 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
 | Hector Carlos Frigo | [LinkedIn](https://www.linkedin.com/in/hectorfrigoo) |
+| João Pedro Pohlmann Neo | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-pohlmann-neo-056580236) |
