@@ -11,3 +11,4 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |Nome Completo| Endereço URL | 
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
+| NilsonJTS | [LinkedIn](https://www.linkedin.com/in/nilson-jose-teixeira-de-souza) |
