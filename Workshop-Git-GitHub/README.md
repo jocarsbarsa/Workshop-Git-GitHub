@@ -17,5 +17,4 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 | Rafael Fernando Neves | [LinkedIn](https://www.linkedin.com/in/rafael-neves-774251150/) |
 | Rebecca Lopes Sant'Ana | [LinkedIn](https://www.linkedin.com/in/rebecca-santana-767440194/) |
 | João Pedro Tomé Morais | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-tom%C3%A9-morais-2ba369290) |
-| Lucas moreira jorge | [instagram](https://www.instagram.com/heymoreyra/)
-
+| Lucas moreira jorge | [github]((https://github.com/heyMoreyra).
