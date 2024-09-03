@@ -11,7 +11,7 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |Nome Completo| Endereço URL | 
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
-| Ana Beatriz Coutinho Soares | [LinkedIn](https://www.linkedin.com/in/devanabia) |
+| Hector Carlos Frigo | [LinkedIn](https://www.linkedin.com/in/hectorfrigoo) |
 | Felipe Herculani | [LinkedIn](https://www.linkedin.com/in/felipe-pontes-3145b025b) |
 | Guilherme Francisco Rossi Chagas | [github](https://github.com/GuilhermeFranci) |
 | Jean Paulo Mei | [LinkedIn](https://br.linkedin.com/in/jean-paulo-mei-a42056137) |
@@ -21,5 +21,9 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 | Isabella Vieira Barbosa | [GitHub](https://github.com/Bella5900g/) |
 | Vinicius Henrique Arrais Rosa | [GitHub](https://github.com/Vinicius-vhar) | 
 | MAtheus w f garcia | [github](https://github.com/Mgarcia0029) | 
+| João Pedro Pohlmann Neo | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-pohlmann-neo-056580236) |
+| MAtheus w f garcia | [github](https://github.com/Mgarcia0029) |
+| Gabriel Lentini Linhares Marques | [LinkedIn](https://www.linkedin.com/in/Gabriel-Lentini) |
+| Ana Beatriz Coutinho Soares | [LinkedIn](https://www.linkedin.com/in/devanabia) |
 
 
