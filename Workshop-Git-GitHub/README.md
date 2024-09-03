@@ -24,4 +24,6 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 | João Pedro Pohlmann Neo | [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-pohlmann-neo-056580236) |
 | MAtheus w f garcia | [github](https://github.com/Mgarcia0029) |
 | Gabriel Lentini Linhares Marques | [LinkedIn](https://www.linkedin.com/in/Gabriel-Lentini) |
+| Ana Beatriz Coutinho Soares | [LinkedIn](https://www.linkedin.com/in/devanabia) |
+
 
